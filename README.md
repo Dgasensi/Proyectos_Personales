@@ -2,7 +2,7 @@
 
 
 Análisis de Datos con el Telescopio Kepler 🌌
-Bienvenido al repositorio de nuestro proyecto de análisis de datos utilizando observaciones del Telescopio Espacial Kepler.
+Bienvenido al repositorio de mi proyecto de análisis de datos utilizando observaciones del Telescopio Espacial Kepler.
 Este proyecto se centra en explorar y analizar los datos de exoplanetas para identificar patrones y características que puedan indicar la habitabilidad de estos cuerpos celestes.
 
 Objetivo 🎯
